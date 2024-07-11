@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    background-color: #F2F4F4;
+    color: #34495E;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background-color: #5DADE2;
+    color: #fff;
+}
+
+button.secondary {
+    background-color: #82E0AA;
+}
+
+/* Add more styles based on your design needs */
